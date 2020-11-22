@@ -6,6 +6,6 @@ Download all the data files from https://drive.google.com/drive/folders/16BEM_Gb
 
 The user can directly run the collaborative.py or svd.py or cur.py and then enter the query to get the results.
 
-If the user wants to search using a new dataset(given the dataset is in the same format as Raw_data.csv), one has to run the following files in the given sequence -
+If the user wants to search using a new dataset, one has to run the following files in the given sequence -
 
 train_test_split.py, precalc.py, jaccard_sim.py
